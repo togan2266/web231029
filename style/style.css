@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/*視窗底色設定*/
+body{
+    background-color: rgb(23, 23, 60);
+}
+
+/*連結顏色設定*/
+a{
+    color: rgb(200, 0, 0);
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+a:link{
+    color: rgb(175, 235, 245);
+}
+a:visited{
+    color: rgb(126, 0, 128);
+}
+a:active{
+    color: rgb(255, 255, 255);
+}
+
+/*頁面標題設定*/
+h1{
+    color: rgb(88, 128, 146);
+    text-align: center;
+    font-size: 300%;
+    background-color: rgb(190, 190, 190);
+}
+
+/*次標題設定*/
+h2{
+    color: rgb(231, 125, 54);
+    border: #949494 2px dashed;
+    border-left: #949494 10px solid;
+    padding: 5px 15px;
+    margin-bottom: 0;
+}
+
+/*內容標題設定*/
+li{
+    font-weight: bold;
+    color: #fff;
+}
+
+p{
+    color: #eee;
+}
+/*『更多(回景點)介紹』連結設定*/
+
+
+/*引言區塊設定*/
+
+
+/*「更多介紹」連結設定*/
+
+
+/*花色、性別（共通資料）*/
+
+
+/*依性別區分顏色*/
